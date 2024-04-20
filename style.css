@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+  }
+  
+
+  .container {
+    width: 40%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: aqua;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    font-size: 18;
+  }
+  h1 {
+    text-align: center;
+  }
+  
+  #task-list {
+    margin: 20px;
+    padding: auto;
+    background-color: antiquewhite;
+  }
+  
+  .task {
+    margin-bottom: 10px;
+    align-items: center;
+  }
+  
+  .delete-btn {
+    margin-left: 10px;
+  }
